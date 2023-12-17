@@ -1,0 +1,39 @@
+GUIA DE TECLAS
+
+OBJETOS
+
+    'P' : Piramide
+    'C' : Cubo
+    'O' : Beethoven
+    'I' : Peon
+    'R' : Objeto Rotación
+    'L' : Cilindro
+    'N' : Cono
+    'E' : Esfera
+    'A' : Excavadora
+    'X' : Extrusion
+    'W' : Wall-E
+    'T' : Fuente Luminosa Giratoria
+
+NOTA : La definición de materiales se visualizan en la tecla 6
+
+ACCIONES WALL-E 
+
+    'F1' : Los ojos se mueven hacia arriba
+    'F2' : Los ojos se mueven hacia abajo
+    'F3' : El cuello gira hacia la izquierda
+    'F4' : El cuello gira hacia la derecha
+    'F5' : La mano izquierda se mueve hacia abajo
+    'F6' : La mano izquierda se mueve hacia arriba
+    'F7' : La mano derecha se mueve hacia abajo
+    'F8' : La mano derecha se mueve hacia arriba
+    'F9' : Se abre la compuerta
+    'F10' : Se cierra la compuerta
+    'F11' : Mueve el cuerpo hacia delante
+    'F12' : Mueve el cuerpo hacia atrás 
+    '8': Giran las ruedas
+    '9' : Ambos brazos se mueve hacia delante
+    '0' : Ambos brazos se mueve hacia atrás
+    '+' : Wall-E se mueve para delante
+    '-' : Wall-E se mueve para atrás
+    'D' : Animación Wall-E
