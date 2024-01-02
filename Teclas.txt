@@ -14,6 +14,8 @@ OBJETOS
     'X' : Extrusion
     'W' : Wall-E
     'T' : Fuente Luminosa Giratoria
+    ',' : Cambiar a Vista Multiple
+    '.' : Cambiar a Perspectiva Normal
 
 NOTA : La definición de materiales se visualizan en la tecla 6
 
